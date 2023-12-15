@@ -4,7 +4,7 @@ The project contains a study of the dataset Reuters-21578. Data exploration and 
 `src/project_report.ipynb` 
 
 The file is also exported as a html page at: 
-`src/project_report.mhtml` 
+`project_report.mhtml` 
 
 Finally, the code used in the notebookfile is exported and can be run from 
 `src/ml_reuters.py`
