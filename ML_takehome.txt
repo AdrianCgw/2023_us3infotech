@@ -1,0 +1,7 @@
+Build a text classification model for news articles using Python, machine learning, and NLP.
+Instructions:
+Use the Reuters news dataset (https://archive.ics.uci.edu/dataset/137/reuters+21578+text+categorization+collection) to train and test your model.
+Preprocess the data by removing stop words, stemming, and tokenizing the text.
+Use a machine learning algorithm of your choice to train a text classification model.
+Evaluate the performance of your model using appropriate metrics such as accuracy, precision, recall, and F1 score.
+Write a brief report summarizing your approach including how you did preprocessing, EDA, evaluating the performance of your model, and any insights you gained from the analysis.
